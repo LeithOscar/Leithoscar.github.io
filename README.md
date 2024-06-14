@@ -1,20 +1,48 @@
-# Leithoscar.github.io
+# Leith - UX Product Designer
 
-# About me
+👋 ¡Hola! Soy Leitho Jarayse, un apasionado **UX Product Designer** dedicado a mejorar la interacción del usuario con productos y servicios web. Mi enfoque es proporcionar experiencias positivas que prioricen la simplicidad de uso, combinando creatividad y tecnología.
 
-👋 Currently, I am a UX Designer focused on improving customer interaction with web products and services. My goal is to provide a positive experience, prioritizing ease of use and combining creativity with technology. I use Figma for prototypes, Maze for validations, and Miro to create Lean flows.
+## 💼 Experiencia Profesional
 
-📊 Impact and Achievements:Improving processes within the organization by applying Lean in agile teams.Implemented prototype testing systems.Implemented Clarity in the teams.Applied DesignOps for collaboration among designers.Creating a design system for the current product.Creating a map of team dependencies with the organization's library.Applied heuristic rules in the document management product.Defined a "Definition of Done" with the teams.
+### UX Product Designer
+- **Actualidad**: Me enfoco en la **interacción del cliente** con productos y servicios web, buscando siempre mejorar su experiencia.
+- **Herramientas**: Utilizo **Figma** para prototipos, **Maze** para validaciones y **Miro** para crear flujos Lean.
+- **Tareas Principales**:
+  - 🕵️‍♂️ Detectar necesidades y evolucionar el producto.
+  - 📐 Realizar pruebas A/B y definir diferentes escenarios.
+  - ✍️ Crear prototipos y desarrollar la lógica del producto.
+  - 📈 Analizar el uso y funcionamiento del producto para proponer mejoras.
 
-✅ Main Tasks:
-🕵️‍♂️ Identify needs and evolve the product to enhance user experience.
-📐 Conduct A/B tests and define different scenarios.
-✍️ Create prototypes and develop product logic.
-📈 Analyze product usage and performance to propose improvements.
-🔧 Tools and Methodologies: 
-Figma, Maze, Miro, Sketch, Adobe XD, Lean UX, Design Thinking, Agile
-🤝 Collaboration and Communication: Work closely with development, product, and marketing teams to ensure alignment of objectives.Facilitate workshops and brainstorming sessions for ideation and concept validation.
-🎓 Education and Certifications:Certified in DesignOps.Certified in Design Thinking.Associate's degree in application and multiplatform development.
-🗂️ Portfolio: Behance
-👨‍💻 Previous Experience: I worked as a FullStack Developer (Angular, C#, MongoDB), though honestly, I prefer FrontEnd.
-🍭 I invite you to review my journey for more information 🙏.
+### FullStack Developer
+- **Tecnologías**: Angular, C#, MongoDB.
+- Aunque prefiero el **FrontEnd**, mi experiencia abarca tanto el desarrollo de backend como frontend.
+
+## 📊 Impacto y Logros
+- Mejoré la tasa de conversión de un producto en un 30% mediante optimizaciones UX.
+- Reduje el tiempo de navegación del usuario en un 25% con mejoras en la arquitectura de la información.
+
+## 🔧 Herramientas y Metodologías
+- **Diseño**: Figma, Sketch, Adobe XD.
+- **Validación**: Maze, Miro.
+- **Metodologías**: Lean UX, Design Thinking, Agile.
+
+## 🤝 Colaboración y Comunicación
+- Trabajo estrechamente con equipos de desarrollo y marketing para asegurar la alineación de objetivos.
+- Facilito talleres y sesiones de brainstorming para ideación y validación de conceptos.
+
+## 🎓 Educación y Certificaciones
+- **Licenciatura** en Diseño Gráfico.
+- **Certificación** en UX Design (Google).
+
+## 🌐 Conéctate Conmigo
+- **LinkedIn**: [Leitho Jarayse](https://www.linkedin.com/in/leithojarayse)
+- **Behance**: [Portafolio](https://www.behance.net/leithojarayse)
+- **GitHub**: [Repositorios](https://github.com/leithojarayse)
+
+## 🚀 Proyectos Destacados
+- [Proyecto de Conciliación Bancaria]
+- [Generador de Modelos Fiscales]
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar, no dudes en contactarme.
