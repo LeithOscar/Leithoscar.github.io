@@ -42,7 +42,7 @@
 - **Certificación** en DesignOps 👌
 
 ## 🌐 Conéctate Conmigo
-- **LinkedIn**: [Leith](https://www.linkedin.com/in/leithojarayse)
+- **LinkedIn**: [Leith](https://www.linkedin.com/in/leith-oscar)
 - **Behance**: [Portafolio](https://www.behance.net/leithojarayse)
 - **GitHub**: [Repositorios](https://github.com/leithojarayse)
 
