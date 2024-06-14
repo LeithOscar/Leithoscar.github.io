@@ -1,6 +1,6 @@
 # Leith - UX Product Designer
 
-👋 ¡Hola! Soy Leitho Jarayse, un apasionado **UX Product Designer** dedicado a mejorar la interacción del usuario con productos y servicios web. Mi enfoque es proporcionar experiencias positivas que prioricen la simplicidad de uso, combinando creatividad y tecnología.
+👋 ¡Hola! Soy Leith, un apasionado **UX Product Designer** dedicado a mejorar la interacción del usuario con productos y servicios web. Mi enfoque es proporcionar experiencias positivas que prioricen la simplicidad de uso, combinando creatividad y tecnología.
 
 ## 💼 Experiencia Profesional
 
@@ -18,8 +18,14 @@
 - Aunque prefiero el **FrontEnd**, mi experiencia abarca tanto el desarrollo de backend como frontend.
 
 ## 📊 Impacto y Logros
-- Mejoré la tasa de conversión de un producto en un 30% mediante optimizaciones UX.
-- Reduje el tiempo de navegación del usuario en un 25% con mejoras en la arquitectura de la información.
+- Estoy mejorando el proceso dentro de la organización aplicando **Lean** en equipos **agile**.
+- He aplicado sistemas de **test de prototipos**.
+- Hemos implementado **Clarity** en los equipos.
+- Aplicar **DesignOps** para la colaboración entre diseñadores.
+- Creando un **sistema de diseño** para el actual producto.
+- Crear un **mapa de la dependencia** de los equipos con las librerías de la organización.
+- Aplicar **reglas heurísticas** en el producto de gestión documental.
+- Definir un **"Definition of Done"** con los equipos.
 
 ## 🔧 Herramientas y Metodologías
 - **Diseño**: Figma, Sketch, Adobe XD.
@@ -31,18 +37,18 @@
 - Facilito talleres y sesiones de brainstorming para ideación y validación de conceptos.
 
 ## 🎓 Educación y Certificaciones
-- **Licenciatura** en Diseño Gráfico.
-- **Certificación** en UX Design (Google).
+- **Grado Superior** en Desarrollo de aplicaciones y multiplataforma.
+- **Certificación** en design thinking 🤔.
+- **Certificación** en DesignOps 👌
 
 ## 🌐 Conéctate Conmigo
-- **LinkedIn**: [Leitho Jarayse](https://www.linkedin.com/in/leithojarayse)
+- **LinkedIn**: [Leith](https://www.linkedin.com/in/leithojarayse)
 - **Behance**: [Portafolio](https://www.behance.net/leithojarayse)
 - **GitHub**: [Repositorios](https://github.com/leithojarayse)
 
 ## 🚀 Proyectos Destacados
 - [Proyecto de Conciliación Bancaria]
 - [Generador de Modelos Fiscales]
-
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar, no dudes en contactarme.
