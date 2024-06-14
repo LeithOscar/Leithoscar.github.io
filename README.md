@@ -1,6 +1,6 @@
 # Leithoscar.github.io
 
-#About me
+# About me
 
 👋 Currently, I am a UX Designer focused on improving customer interaction with web products and services. My goal is to provide a positive experience, prioritizing ease of use and combining creativity with technology. I use Figma for prototypes, Maze for validations, and Miro to create Lean flows.
 
