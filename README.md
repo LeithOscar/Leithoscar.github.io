@@ -39,6 +39,7 @@ Sobre las investigaciones UX, muchas son confidenciales y antes de inventarme na
 - **Diseño**: Figma, Sketch, Adobe XD.
 - **Validación**: Maze, Miro.
 - **Metodologías**: Lean UX, Design Thinking, Agile.
+- **IDE**: Visual Studio, Code, Sublime, Powershell, MongoDB, RabbitMQ...
 
 ## 🤝 Colaboración y Comunicación
 - Trabajo estrechamente con equipos de desarrollo y marketing para asegurar la alineación de objetivos.
