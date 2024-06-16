@@ -33,7 +33,7 @@ Sobre las investigaciones UX, muchas son confidenciales y antes de inventarme na
 
  Tiempo anterior : Más de una semana en publicar cambios.😲
 
- ** Tiempos Actual: Menos de una hora.👌 **
+ **Tiempos Actual: Menos de una hora.**👌
 
 ## 🔧 Herramientas y Metodologías
 - **Diseño**: Figma, Sketch, Adobe XD.
