@@ -1,4 +1,4 @@
-# Leith - UX Product Designer
+de# Leith - UX Product Designer
 
 👋 ¡Hola! Soy Leith, un apasionado **UX Product Designer** dedicado a mejorar la interacción del usuario con productos y servicios web. Mi enfoque es proporcionar experiencias positivas que prioricen la simplicidad de uso, combinando creatividad y tecnología. Vengo del desarrollo con más de diez años de experiencia, como FullStack, vamos, tocando **backend** y **Frontend**
 Sobre las investigaciones UX, muchas son confidenciales y antes de inventarme nada, prefiero que me preguntes.
@@ -31,9 +31,9 @@ Sobre las investigaciones UX, muchas son confidenciales y antes de inventarme na
 
 - DEV. Conseguí aumentar la velocidad de entrega en los modelos fiscales para AEAT cuando estos tenían cambios. Creando un generador automatizado base a un plantillas definidas por el PO. 
 
- Tiempo anterior : Más de una semana en publicar cambios.😲
+ Tiempo **anterior**: Más de una semana en publicar cambios.😲
 
- **Tiempos Actual: Menos de una hora.**👌
+ Tiempos **Actual**: Menos de una hora.👌
 
 ## 🔧 Herramientas y Metodologías
 - **Diseño**: Figma, Sketch, Adobe XD.
