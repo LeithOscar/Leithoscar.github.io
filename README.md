@@ -47,12 +47,11 @@ ok# Leith - UX Product Designer
 - **GitHub**: [Repositorios](https://github.com/leithojarayse)
 
 ## 🚀 Proyectos Destacados
+- [Blue Berry's Design System](https://www.behance.net/gallery/150233407/UI-Blueberries)
+- [UX Case Study VadeMenu](https://www.behance.net/gallery/145900411/VADEMENU)
 - [Proyecto de Conciliación Bancaria]
 - [Generador de Modelos Fiscales]
 - [Curso de react avanzado](https://github.com/LeithOscar/React-cursoReactAvanzado)
-- [Blue Berry's Design System](https://www.behance.net/gallery/150233407/UI-Blueberries)
-
-- [UX Case Study VadeMenu](https://www.behance.net/gallery/145900411/VADEMENU)
 - [Azure Functions](https://github.com/LeithOscar/Backend-AzureFunctionAppLab)
 
 - [ Frontend Decorators]( https://github.com/LeithOscar/Frontend-typescript_decorator)
