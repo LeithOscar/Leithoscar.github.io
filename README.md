@@ -2,14 +2,6 @@
 
 👋 ¡Hola! Soy Leith, un apasionado **UX Product Designer** dedicado a mejorar la interacción del usuario con productos y servicios web. Mi enfoque es proporcionar experiencias positivas que prioricen la simplicidad de uso, combinando creatividad y tecnología. Vengo del desarrollo con más de diez años de experiencia, como FullStack, vamos, tocando **backend** y **Frontend**
 
-Algunos enlaces de "cosas" que hice por diversión:
-
-- [Curso de react avanzado](https://github.com/LeithOscar/React-cursoReactAvanzado)
-
-- [Azure Functions](https://github.com/LeithOscar/Backend-AzureFunctionAppLab)
-
-- [ Frontend Decorators]( https://github.com/LeithOscar/Frontend-typescript_decorator)
-
 ## 💼 Experiencia Profesional
 
 ### UX Product Designer
@@ -57,6 +49,12 @@ Algunos enlaces de "cosas" que hice por diversión:
 ## 🚀 Proyectos Destacados
 - [Proyecto de Conciliación Bancaria]
 - [Generador de Modelos Fiscales]
+- [Curso de react avanzado](https://github.com/LeithOscar/React-cursoReactAvanzado)
+
+- [Azure Functions](https://github.com/LeithOscar/Backend-AzureFunctionAppLab)
+
+- [ Frontend Decorators]( https://github.com/LeithOscar/Frontend-typescript_decorator)
+
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar, no dudes en contactarme.
