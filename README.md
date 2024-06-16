@@ -5,6 +5,7 @@
 Algunos enlaces de "cosas" que hice por diversión:
 
  [Curso de react avanzado](https://github.com/LeithOscar/React-cursoReactAvanzado)
+[Azure Functions](https://github.com/LeithOscar/Backend-AzureFunctionAppLab)
 
 ## 💼 Experiencia Profesional
 
