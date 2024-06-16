@@ -48,7 +48,7 @@
 
 ## 🚀 Proyectos Destacados
 - [Working **DesignOps Template**]() 
-- [Blue Berry's Design System](https://www.behance.net/gallery/150233407/UI-Blueberries)
+- [Blue Berry's Design System Lite](https://www.behance.net/gallery/150233407/UI-Blueberries)
 - [UX Case Study VadeMenu](https://www.behance.net/gallery/145900411/VADEMENU)
 - [Proyecto de Conciliación Bancaria]
 - [Generador de Modelos Fiscales]
