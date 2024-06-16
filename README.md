@@ -47,6 +47,7 @@ ok# Leith - UX Product Designer
 - **GitHub**: [Repositorios](https://github.com/leithojarayse)
 
 ## 🚀 Proyectos Destacados
+- [Working **DesignOps Template**]() 
 - [Blue Berry's Design System](https://www.behance.net/gallery/150233407/UI-Blueberries)
 - [UX Case Study VadeMenu](https://www.behance.net/gallery/145900411/VADEMENU)
 - [Proyecto de Conciliación Bancaria]
