@@ -8,6 +8,8 @@ Algunos enlaces de "cosas" que hice por diversión:
 
 - [Azure Functions](https://github.com/LeithOscar/Backend-AzureFunctionAppLab)
 
+- [ Frontend Decorators]( https://github.com/LeithOscar/Frontend-typescript_decorator)
+
 ## 💼 Experiencia Profesional
 
 ### UX Product Designer
