@@ -29,6 +29,11 @@ Sobre las investigaciones UX, muchas son confidenciales y antes de inventarme na
 - Aplicar **reglas heurísticas** en el producto de gestión documental.
 - Definir un **"Definition of Done"** con los equipos.
 
+- DEV. Conseguí aumentar la velocidad de entrega en los modelos fiscales para AEAT cuando estos tenían cambios. Creando un generador automatizado base a un plantillas definidas por el PO. 
+ Tiempo anterior : Más de una semana en publicar cambios.😲
+
+  Tiempos Actual: Menos de una hora.👌 
+
 ## 🔧 Herramientas y Metodologías
 - **Diseño**: Figma, Sketch, Adobe XD.
 - **Validación**: Maze, Miro.
