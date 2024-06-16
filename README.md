@@ -1,4 +1,4 @@
-de# Leith - UX Product Designer
+# Leith - UX Product Designer
 
 👋 ¡Hola! Soy Leith, un apasionado **UX Product Designer** dedicado a mejorar la interacción del usuario con productos y servicios web. Mi enfoque es proporcionar experiencias positivas que prioricen la simplicidad de uso, combinando creatividad y tecnología. Vengo del desarrollo con más de diez años de experiencia, como FullStack, vamos, tocando **backend** y **Frontend**
 Sobre las investigaciones UX, muchas son confidenciales y antes de inventarme nada, prefiero que me preguntes.
